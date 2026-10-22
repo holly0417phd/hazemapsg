@@ -4,8 +4,8 @@
 
 ![Disclosure gaps – Controlling Groups](18a_disclosure_gaps_controlling_groups.png)
 
-## Lenders
-![Disclosure gaps – Lenders](18b_disclosure_gaps_buyers_and_traders.png)
-
 ## Buyers and Traders
-![Disclosure gaps – Buyers and Traders](18c_disclosure_gaps_lenders.png)
+![Disclosure gaps – Buyers and Traders](18b_disclosure_gaps_buyers_and_traders.png)
+
+## Lenders
+![Disclosure gaps – Lenders](18c_disclosure_gaps_lenders.png)
