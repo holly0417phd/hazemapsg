@@ -1,6 +1,6 @@
 # Haze Research: Sustainability Disclosure Gaps
 
-## Controlling Groups
+## Controlling Groups 
 
 ![Disclosure gaps – Controlling Groups](images1/18a_disclosure_gaps_controlling_groups.png)
 
