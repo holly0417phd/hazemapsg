@@ -1,5 +1,5 @@
 ![p1](images1/p1.png)
-![p3](image1s/p3.png)
+![p3](images1/p3.png)
 ![p5](images1/p5.png)
 ![p7](images1/p7.png)
 ![p9](images1/p9.png)
