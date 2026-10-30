@@ -5,3 +5,8 @@
 ![p9](images1/p9.png)
 ![p11](images1/p11.png)
 ![p13](images1/p13.png)
+![p15](images1/p15.png)
+![p17](images1/p17.png)
+![p19](images1/p19.png)
+![p21](images1/p21.png)
+![p23](images1/p23.png)
